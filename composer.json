@@ -1,0 +1,22 @@
+{
+    "name": "wulfy/tests-git",
+    "type": "library",
+    "description": "tests git",
+    "keywords": [
+        "test",
+    ],
+    "homepage": "http://test.org/",
+    "license": "test",
+    "authors": [
+        {
+            "name": "ludo",
+            "email": "ludo@gmail.com"
+        }
+    ],
+    "support": {
+        "email": "wulfy72@yahoo.fr"
+    },
+    "autoload": {
+        "psr-0": { "Gedmo\\": "lib/" }
+    },
+}
