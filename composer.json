@@ -1,6 +1,7 @@
 {
     "name": "wulfy/tests-git",
     "type": "library",
+	"version": "1.0",
     "description": "tests git",
     "keywords": [
         "test"
