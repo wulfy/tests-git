@@ -1,7 +1,7 @@
 {
-    "name": "wulfy/tests-git",
+    "name": "tests-git",
     "type": "library",
-	"version": "1.0",
+    "version": "1.0",
     "description": "tests git",
     "keywords": [
         "test"
@@ -16,10 +16,5 @@
     ],
     "support": {
         "email": "wulfy72@yahoo.fr"
-    },
-    "extra": {
-		"branch-alias": {
-			"dev-master": "1.4.x"
-		}
-	}
+    }
 }
