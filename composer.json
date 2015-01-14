@@ -16,7 +16,9 @@
     "support": {
         "email": "wulfy72@yahoo.fr"
     },
-    "autoload": {
-        "psr-0": { "Gedmo\\": "lib/" }
-    }
+    "extra": {
+		"branch-alias": {
+			"master": "1.4.x"
+		}
+	}
 }
